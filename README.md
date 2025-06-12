@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Erick Martins 👋</h1>
 
-<!--
-**ecmartins/ecmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise de Dados e formado em Desenvolvimento de Sistemas  
+💡 Apaixonado por programação e dados 
+🚀 Buscando meu primeiro estágio na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias que uso e estudo
+
+- **Front-end**: HTML, CSS, JavaScript, React  
+- **Back-end**: Node.js, Express, PHP  
+- **Banco de Dados**: MongoDB, MySQL  
+- **Dados**: Power BI, Excel, Python (Pandas, Numpy, Matplot)  
+- **Ferramentas**: GitHub, Trello, Figma
+
+---
+
+### 📈 Atualmente estudando
+
+- AWS (pela Escola da Nuvem) ☁️  
+- Práticas com React + Node.js (Full Stack)  
+- Visualização de dados avançada com Power BI e Python
+
+---
+
+### 🤝 Vamos conversar?
+
+- 💼 [LinkedIn](https://linkedin.com/in/martins-erick)  
+- 📫 cardoso2.5.ec@gmail.com
